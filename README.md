@@ -4,4 +4,4 @@
 - 🤔 Status: focusing on learning and continuous growth  
 - 📫 Email: tangredtea#gmail.com (replace # with @)  
 - 😄 Pronouns: Let’s work hard together!!  
-[![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowenruo&show_icons=true)](https://github.com/laowenruo/)
+[![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangredtea&show_icons=true)](https://github.com/tangredtea/)
